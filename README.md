@@ -1,2 +1,2 @@
 # dwarf_concurrent_mining
-Parallel processing in Java :)
+Concurrency in Java :)
