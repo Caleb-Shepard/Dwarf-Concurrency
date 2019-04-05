@@ -1,2 +1,2 @@
 # dwarf_concurrent_mining
-Concurrency in Java :)
+Concurrency in Java :coffee:
